@@ -4,6 +4,9 @@ En el siguiente códido hay una errara que impide que la animación funcione cor
 
 Nos estamos basando en el estándar, por lo que habrá que añadir los prefijos necesarios. Recordad que podés utilizar [Codepen](http://codepen.io/) con el auto prefijo para trabajar de una forma ás ágil.
 
+El cambio esta realizado
+
+
 
 
 ####html
